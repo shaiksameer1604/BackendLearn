@@ -1,8 +1,8 @@
 const data=require('../models/Profiles.json');
 
 function getprofile(req,res){
-    const Profiles=data;
-    res.send({Profiles});
+    const profiles=data;
+    res.send({profiles});
 }
 
 module.exports ={getprofile};
