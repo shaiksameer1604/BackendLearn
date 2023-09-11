@@ -1,0 +1,2 @@
+Sameer123
+mongodb+srv://sameer_33:Sameer123@cluster0.ovd0eo7.mongodb.net/
